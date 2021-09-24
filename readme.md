@@ -4,7 +4,7 @@ Michael Pereira <michael@monkeycycle.org>
 
 Simple scraper to pull details from Manitoba's lobbyist registry.
 
-
+* https://registry.lobbyistregistrar.mb.ca/lra/reporting/public/advanceSearch.do
 
 * The registry includes an ID for the registration but not the individual. 
 
